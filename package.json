@@ -44,11 +44,11 @@
     "onDebugResolve:typescriptreact",
     "onDebugResolve:javascript",
     "onDebugResolve:javascriptreact",
-    "onCommand:deno.client.welcome",
-    "onCommand:deno.client.enable",
-    "onCommand:deno.client.disable",
-    "onCommand:deno.client.clearHiddenPromptStorage",
-    "onCommand:deno.reloadImportRegistries",
+    
+    
+    
+    
+    
     "onWebviewPanel:welcomeDeno"
   ],
   "main": "./client/dist/main",
